@@ -1,4 +1,4 @@
-# InsertionSortProject
+# Insertion Sort Project
 
 
 
@@ -28,7 +28,7 @@ Answer- Step1 [3|7,5,8,2,9,4,15,6]
         Step4 [2,3,5,7|8,9,4,15,6]
         
     
-# MergeSortProject
+# Merge Sort Project
 
 
 [16,21,11,8,12,22] -> Merge Sort
@@ -47,7 +47,7 @@ Answer- Her parçalayışımızda yarıya bölüyoruz (logn) ve bu işlemi her b
         
         
         
-#BinarySearchTreeProject
+# Binary Search Tree Project
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
